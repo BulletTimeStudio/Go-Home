@@ -1,0 +1,1 @@
+Assets/Metal textures pack/pattern 03/diffuse.tga
